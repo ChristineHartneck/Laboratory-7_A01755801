@@ -1,4 +1,4 @@
-let url = "http://localhost:8080/api/blog-posts";
+let url = "http://localhost:8181/api/blog-posts";
 let blogPosts = [];
 
 // Loading the existing posts
